@@ -1281,7 +1281,7 @@ F 3 "" H 6550 7100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Voyager60-rescue:SW_Push SW1
+L Voyager40-rescue:SW_Push-Voyager60-rescue SW1
 U 1 1 5B323AA5
 P 6125 7300
 F 0 "SW1" H 6175 7400 50  0000 L CNN
@@ -2999,7 +2999,7 @@ F 3 "" H 8950 3275 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MCU_Microchip_ATmega:ATmega32U2-AU U1
+L Voyager40-rescue:ATmega32U2-AU-MCU_Microchip_ATmega U1
 U 1 1 5D0B79E1
 P 7475 8400
 F 0 "U1" H 7475 6914 50  0000 C CNN
@@ -3951,4 +3951,14 @@ Text GLabel 8175 9200 2    50   Input ~ 0
 RGBLED
 Text GLabel 8175 9300 2    50   Input ~ 0
 ROW1
+Text GLabel 8175 8500 2    50   Input ~ 0
+ROW0
+Text GLabel 8175 8600 2    50   Input ~ 0
+ROW2
+Text GLabel 8175 8700 2    50   Input ~ 0
+ROW3
+Text GLabel 8175 8300 2    50   Input ~ 0
+COL1
+Text GLabel 8175 8400 2    50   Input ~ 0
+COL0
 $EndSCHEMATC
