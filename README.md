@@ -5,8 +5,8 @@ A compact, fully featured 40% PCB
 
 [Supported layouts](http://www.keyboard-layout-editor.com/#/gists/b095690facf5e7ddff7d799d73baacf5)  
 
-##### In light of recent ridiculous claims that I have been using open source PCBs for fame and money and that I am 100% liable for any of my open source PCBs that do not function, I am adding this disclaimer.
-##### I provide these PCBs as a reference for designing keyboard PCBs. Using them within your projects will require a will to do research of one's own and to learn the workings of them, potentially fixing issues if they exist.
+#### In light of recent claims that I am 100% liable for any of my open source PCBs, I am adding this disclaimer.
+#### I provide these PCBs as a reference for designing keyboard PCBs. Using them within your projects will require a will to do research of one's own and to learn the workings of them, potentially fixing issues if they exist.
 # I provide these PCBs without liability and without any guarantees regarding functionality, as expressed in the MIT license under which all of these PCBs are licensed.
 
 ### Features
